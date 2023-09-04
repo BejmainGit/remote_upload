@@ -2,4 +2,3 @@ log2.log
 *.log
 *.o
 temp/
-!(*.c)
